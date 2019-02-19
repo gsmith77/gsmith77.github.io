@@ -1,0 +1,9 @@
+---
+layout: post
+title:      "Continue to Persevere "
+date:       2019-02-19 19:11:13 +0000
+permalink:  continue_to_persevere
+---
+
+
+This 10 month Bootcamp is not joke on its difficulty at times. At the beginning of this journey I knew I would have to dedicate hours upon hours a day to be able to keep up with the curriculum that they gave us weekly. For me programming is not only a fun hobby and new skill to learn; it is a way out of being broke and to move out of my parent's home. I am 22 and I am ready to get out and start making a name for myself. What I have learned from this curriculum is you can have these expectations to do 3-4 lessons a day or whatever goal you set and quickly a lab that is very difficult comes and throws you off putting you now behind your own expectations of yourself. To me this can leave a pit of guilt in my stomach knowing it took me a day or two to finish a lab that I could not seem to figure out. These labs are far and few but man do they get you! Recently Sinatra has been kicking my butt! I have learned so much within a short amount of time and that is something I really love about this curriculum is that it is a TRUE BOOTCAMP! You will learn quick and the essentials of what you need to know. If you are feeling sorry for yourself or not up to your expectations this curriculum forces you to be resourceful and make up for lost time. I personally prefer to play against the clock, gets the adrenaline going and I've always heard "Pressure makes Diamonds." I want to close out with this diamond I have learned from this is make sure to buckle down and not let the curriculum beat you, beat the curriculum by staying on track to ease the stress and prepare for speed bump labs because they will come it is only a matter on time till they do. Hope this gives some reassurance that you are not the only one struggling and having troubles completing these labs!
