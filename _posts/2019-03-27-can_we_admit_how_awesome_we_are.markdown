@@ -10,10 +10,10 @@ I am talking to my Dad about how I am super excited to learn Ruby on Rails! Ruby
 
 The fact that ActiveRecord is inside of Ruby on Rails is the most amazing thing I have ever felt with my fingertips… I felt like that just got kind of weird so lets put a gif to make up for it.
 
-https://gfycat.com/spryachingdassierat
+![](https://gfycat.com/spryachingdassierat)
 
 There we go, now back to what I was saying. SO Ruby on Rails is amazing! I am loving this CRU Rails Lab it is so powerful using the rails generators! Now we can create Databases, Models, Controllers, Views, Add Columns, Change Columns, Remove Columns, Form_For tags… I mean this is some amazing things that we used to have to manually do every single time and now we can user a Generator to do almost everything for us when the circumstances permit! ;)
 
 Give Yourself a hand you have learned some amazing things thus far and if this is halway I can’t wait to see what Badass Lessons we will have in the Future! Continue kicking ass and never give up! Enjoy the curriculum I know I am!
 
-https://gfycat.com/barethickgalapagoshawk
+![](https://gfycat.com/barethickgalapagoshawk)
