@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Handling AJAX to Ruby on Rails"
-date:       2019-07-03 04:44:00 +0000
+title:      "Handling AJAX inside of Ruby on Rails"
+date:       2019-07-03 00:44:01 -0400
 permalink:  handling_ajax_to_ruby_on_rails
 ---
 
